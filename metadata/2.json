@@ -1,15 +1,15 @@
 {
   "name": "Kartu Edukasi: Sampah Anorganik",
   "description": "Sampah berbahan nonhayati yang tidak termasuk kelompok organik, seperti plastik dan logam.",
-  "image": "ipfs://bafkreigjtcldywfbyzokgt4jlx5xk5vzwph5lz6t2zphwxayu32akt5vue",
+  "image": "ipfs://bafkreiakslcs37w6qwrgeqexubclaxpm5iszzmzp2efimkseyukfro36my",
   "attributes": [
     {
       "trait_type": "Kategori",
       "value": "Anorganik"
     },
     {
-      "trait_type": "Platform",
-      "value": "Sortify"
+      "trait_type": "Token ID",
+      "value": 2
     }
   ]
 }

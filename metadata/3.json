@@ -1,15 +1,15 @@
 {
-  "name": "Kartu Edukasi: Daur Ulang/Kertas",
+  "name": "Kartu Edukasi: Sampah Kertas",
   "description": "Objek berbahan kertas atau karton yang dipisahkan sebagai kelas edukasi tersendiri.",
-  "image": "ipfs://bafkreidsw75rlurxx5wqfox5qaugnxmynyl7akjd4fhymgpgxjllnk2qga",
+  "image": "ipfs://bafkreidwn5dggldueokuwp3e5l6oix3venewycyuqlte6vlvup64rfiq54",
   "attributes": [
     {
       "trait_type": "Kategori",
-      "value": "Daur Ulang"
+      "value": "Kertas"
     },
     {
-      "trait_type": "Platform",
-      "value": "Sortify"
+      "trait_type": "Token ID",
+      "value": 3
     }
   ]
 }
