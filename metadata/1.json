@@ -1,0 +1,15 @@
+{
+  "name": "Kartu Edukasi: Sampah Organik",
+  "description": "Sampah yang berasal dari bahan hayati dan dapat terurai secara biologis, seperti sisa makanan dan daun.",
+  "image": "ipfs://bafybeif75gkfq3s7uxg3lji2wpw2hb7fxveb4lfwxkrpmvlbodlelv22iq",
+  "attributes": [
+    {
+      "trait_type": "Kategori",
+      "value": "Organik"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Sortify"
+    }
+  ]
+}

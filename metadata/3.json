@@ -1,0 +1,15 @@
+{
+  "name": "Kartu Edukasi: Daur Ulang/Kertas",
+  "description": "Objek berbahan kertas atau karton yang dipisahkan sebagai kelas edukasi tersendiri.",
+  "image": "ipfs://bafkreidsw75rlurxx5wqfox5qaugnxmynyl7akjd4fhymgpgxjllnk2qga",
+  "attributes": [
+    {
+      "trait_type": "Kategori",
+      "value": "Daur Ulang"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Sortify"
+    }
+  ]
+}
