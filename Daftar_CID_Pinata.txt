@@ -1,0 +1,70 @@
+==============================================================================
+ DAFTAR CID PINATA (IPFS) - SORTIFY CARDS
+==============================================================================
+
+Proyek          : Sortify - Edukasi Pilah Sampah (Kelompok 6)
+Jaringan        : Ethereum Sepolia Testnet (chainId 11155111)
+Kontrak         : SortifyCards (ERC-1155)
+Alamat Kontrak  : 0xb3805146AA3d936934De0ebDEeb471668837674B
+Etherscan       : https://sepolia.etherscan.io/address/0xb3805146AA3d936934De0ebDEeb471668837674B
+
+Sumber data     : scripts/initContract.js (CID metadata JSON),
+                  metadata/1.json, metadata/2.json, metadata/3.json (CID gambar),
+                  SortifyCards-frontend.json (alamat kontrak)
+
+------------------------------------------------------------------------------
+ KARTU #1 - Kartu Edukasi: Sampah Organik
+------------------------------------------------------------------------------
+Metadata JSON
+  CID  : bafkreihvgmf3kn42uaoizn77rdctjj2haixn5qmji6a3nhukkcqb7v437m
+  URI  : ipfs://bafkreihvgmf3kn42uaoizn77rdctjj2haixn5qmji6a3nhukkcqb7v437m
+  HTTP : https://gateway.pinata.cloud/ipfs/bafkreihvgmf3kn42uaoizn77rdctjj2haixn5qmji6a3nhukkcqb7v437m
+
+Gambar
+  CID  : bafkreidienbl27yyuxhl7kgnkl3plxuqscqjbfoeubgcyo5lgzm3uzl7fy
+  URI  : ipfs://bafkreidienbl27yyuxhl7kgnkl3plxuqscqjbfoeubgcyo5lgzm3uzl7fy
+  HTTP : https://gateway.pinata.cloud/ipfs/bafkreidienbl27yyuxhl7kgnkl3plxuqscqjbfoeubgcyo5lgzm3uzl7fy
+
+------------------------------------------------------------------------------
+ KARTU #2 - Kartu Edukasi: Sampah Anorganik
+------------------------------------------------------------------------------
+Metadata JSON
+  CID  : bafkreihxriv2ve75shjk6boqtpcnorzumunaino75ogvegasd7px3blkf4
+  URI  : ipfs://bafkreihxriv2ve75shjk6boqtpcnorzumunaino75ogvegasd7px3blkf4
+  HTTP : https://gateway.pinata.cloud/ipfs/bafkreihxriv2ve75shjk6boqtpcnorzumunaino75ogvegasd7px3blkf4
+
+Gambar
+  CID  : bafkreiakslcs37w6qwrgeqexubclaxpm5iszzmzp2efimkseyukfro36my
+  URI  : ipfs://bafkreiakslcs37w6qwrgeqexubclaxpm5iszzmzp2efimkseyukfro36my
+  HTTP : https://gateway.pinata.cloud/ipfs/bafkreiakslcs37w6qwrgeqexubclaxpm5iszzmzp2efimkseyukfro36my
+
+------------------------------------------------------------------------------
+ KARTU #3 - Kartu Edukasi: Sampah Kertas
+------------------------------------------------------------------------------
+Metadata JSON
+  CID  : bafkreifryq5wyvjxo7pwqn2wdtay4caucxjk2wzf7yezupcxvayi42h7ja
+  URI  : ipfs://bafkreifryq5wyvjxo7pwqn2wdtay4caucxjk2wzf7yezupcxvayi42h7ja
+  HTTP : https://gateway.pinata.cloud/ipfs/bafkreifryq5wyvjxo7pwqn2wdtay4caucxjk2wzf7yezupcxvayi42h7ja
+
+Gambar
+  CID  : bafkreidwn5dggldueokuwp3e5l6oix3venewycyuqlte6vlvup64rfiq54
+  URI  : ipfs://bafkreidwn5dggldueokuwp3e5l6oix3venewycyuqlte6vlvup64rfiq54
+  HTTP : https://gateway.pinata.cloud/ipfs/bafkreidwn5dggldueokuwp3e5l6oix3venewycyuqlte6vlvup64rfiq54
+
+==============================================================================
+ HASIL VERIFIKASI GATEWAY PINATA
+==============================================================================
+Tanggal cek : 2026-11-26 23:34 WITA (UTC+08:00)
+Metode      : HTTP HEAD ke https://gateway.pinata.cloud/ipfs/<CID>
+
+ No | Kartu | Jenis         | Status       | Content-Type
+----+-------+---------------+--------------+------------------
+ 1  | #1    | Metadata JSON | 200 OK       | application/json
+ 2  | #2    | Metadata JSON | 200 OK       | application/json
+ 3  | #3    | Metadata JSON | 200 OK       | application/json
+ 4  | #1    | Gambar        | 200 OK       | image/jpeg
+ 5  | #2    | Gambar        | 200 OK       | image/jpeg
+ 6  | #3    | Gambar        | 200 OK       | image/jpeg
+
+Kesimpulan  : 6 dari 6 tautan aktif (200 OK).
+==============================================================================
