@@ -3,7 +3,7 @@ import { network } from "hardhat";
 
 async function main() {
     // Ganti dengan alamat publik MetaMask milik Dinda
-    const dindaAddress = "0x7DA6773D75c7aCCeCa36b8137dcd49736F7d0352";
+    const dindaAddress = "0x26B014fa42cb4EA038ec891FB71213b250f32297";
 
     const contractData = JSON.parse(
         fs.readFileSync("./SortifyCards-frontend.json", "utf8")
